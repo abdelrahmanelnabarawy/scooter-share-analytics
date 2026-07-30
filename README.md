@@ -20,7 +20,7 @@ SQL Server, Power BI, DAX, Power Query
 
 ## Dashboard Preview
 screenshots/Overview.png
-[screenshot-station-performance.png]
+
 
 ## Files
 - `Scooter_query.sql` — all analysis queries
