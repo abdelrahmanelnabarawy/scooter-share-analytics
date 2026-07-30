@@ -26,6 +26,12 @@ SQL Server, Power BI, DAX, Power Query
 ### Ride Quality & Duration
 screenshots/Ride Quality & Duration.png
 
+## Dashboard Preview
+
+### Overview
+![Overview Dashboard](screenshots/Ride Quality & Duration.png)
+screenshots/Ride Quality & Duration.png
+
 
 ## Files
 - `Scooter_query.sql` — all analysis queries
