@@ -24,7 +24,7 @@ SQL Server, Power BI, DAX, Power Query
 ![Overview Dashboard](screenshots/Overview.png)
 
 ### Ride Quality & Duration
-![Ride Quality & Durations Dashboard](screenshots/Ride Quality & Duration.png)
+screenshots/Ride Quality & Duration.png
 
 
 ## Files
