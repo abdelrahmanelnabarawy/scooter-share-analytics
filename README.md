@@ -19,7 +19,7 @@ Three linked tables: `rides`, `stations`, `users` (SQL Server).
 SQL Server, Power BI, DAX, Power Query
 
 ## Dashboard Preview
-[screenshot-overview.png]
+screenshots/Overview.png
 [screenshot-station-performance.png]
 
 ## Files
